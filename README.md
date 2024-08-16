@@ -5,6 +5,7 @@ My name is Dmytro, and I am software engineering student at McGill University, M
 Some of my skills:
 Python, Java, C, Docker, SQL, Git, Kafka, Linux, Elasticsearch, Bash, Ansible, Spring, RESTful API.
 
+project-group-5 demonstrates my fullstack and collaboration skills. 
 
 <!--
 **dmytromartyniuk/dmytromartyniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
